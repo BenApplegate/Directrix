@@ -1,3 +1,9 @@
+﻿/*********************************
+ * Author(s): Thomas Applegate
+ * Created: August 28, 2024
+ * Last Updated: August 28, 2024
+ ********************************/
+
 using System.Numerics;
 using System.Collections;
 
